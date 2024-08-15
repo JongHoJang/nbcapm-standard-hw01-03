@@ -1,6 +1,6 @@
-## 리액트 스탠다드 반 1-3 과제
+# 리액트 스탠다드 반 1-3 과제
 
-# 요구사항
+## 요구사항
 
 - 아래의 `App.jsx` 파일을 `Header.jsx`, `Counter.jsx`, `Content.jsx`, `Footer.jsx`, `Status.jsx` 다섯 개의 파일로 분리하세요.
 - `App` 컴포넌트에서 `count`라는 `state`를 관리하고, 이 값을 `Counter` 컴포넌트와 `Status` 컴포넌트에 `props`로 전달하세요.
